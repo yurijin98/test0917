@@ -2,5 +2,5 @@
 
 # markdown test
 
--list one
--list two
+- list one
+- list two
